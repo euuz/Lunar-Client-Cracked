@@ -84,7 +84,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 
 ## 🤝 Créditos
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Os criadores originais e contribuidores estão listados aqui.
 
 <table>
   <tr>
