@@ -13,7 +13,8 @@
 <img src="/media/logo.png" alt="Ilustracao">
 > Uma versão traduzida, acessível e explicativa de uma ferramenta para criação de contas Piratas no Lunar Client. 
 
-## 🇧🇷 Português
+<h1 id="portugues">🇧🇷 Português</h1>
+
 
 ### 🔧 Modificações feitas
 
@@ -106,7 +107,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 🇺🇸 English
+<h1 id="english">🇺🇸 English</h1>
 
 ### 🔧 Changes made
 THe project still in development, you may check coming soon updates here:
