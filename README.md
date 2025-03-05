@@ -15,6 +15,13 @@
 
 <h1 id="portugues">🇧🇷 Português</h1>
 
+### 📥 Download
+
+Você pode baixar a versão pré feita da ferramenta clicando [aqui](https://github.com/nozkel/Lunar-Client-Cracked/releases), ou acessando a página de releases.
+
+Se você deseja executar por Python, modificar e/ou contribuir com o código, você pode clonar todo o repositório.
+
+O arquivo `main.py` está em `src/main.py`.
 
 ### 🔧 Modificações feitas
 
@@ -108,6 +115,14 @@ Os criadores originais e contribuidores estão listados aqui.
 </table>
 
 <h1 id="english">🇺🇸 English</h1>
+
+### 📥 Download
+
+You may download the pre-built tool version by clicking [here](https://github.com/nozkel/Lunar-Client-Cracked/releases) or acessing the releases page.
+
+If you wish run the tool by Python, modify and/or code contribute, you may clone or download the whole repo.
+
+The `main.py` file is located at `src/main.py`.
 
 ### 🔧 Changes made
 THe project still in development, you may check coming soon updates here:
