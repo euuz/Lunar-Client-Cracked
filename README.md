@@ -1,6 +1,6 @@
 # Lunar Client Pirata / Cracked
 
-## 🌍 Sumário
+## 🌍 Sumário / Summary
 - [🇧🇷 Português](#portugues)
 - [🇺🇸 English](#english)
 
