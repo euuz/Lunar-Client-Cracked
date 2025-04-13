@@ -6,7 +6,6 @@ import time
 from datetime import datetime
 from colorama import Fore, Style, init
 
-# colorama thing
 init(autoreset=True)
 
 languages = {
