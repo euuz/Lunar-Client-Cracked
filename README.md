@@ -5,7 +5,7 @@
 - [🇺🇸 English](#english)
 
 <img src="/media/logo.png" alt="Ilustracao">
-> Uma versão traduzida, acessível e explicativa de uma ferramenta para criação de contas Piratas no Lunar Client. 
+> Uma ferramenta para criação de contas não-originais no Lunar Client. 
 
 <h1 id="portugues">🇧🇷 Português</h1>
 
@@ -13,21 +13,17 @@
 
 Você pode baixar a versão pré feita da ferramenta clicando [aqui](https://github.com/nozkel/Lunar-Client-Cracked/releases), ou acessando a página de releases.
 
-Se você deseja executar por Python, modificar e/ou contribuir com o código, você pode clonar todo o repositório.
+Você também pode construir seu próprio executável, modificar e/ou contribuir com o código. Para isso, clone todo o repositório.
 
 ### 🔧 Modificações feitas
 
-O projeto ainda está em desenvolvimento, você pode acompanhar as futuras atualizações aqui:
-
 - [x] Tradução para Português
-- [ ] Recriação do programa autoral
-- [ ] Aumentar a acessibilidade
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você tem uma máquina `Windows` compatível com `.NET Framework 4.7.2`. MacOS e Linux não são compatíveis
+- Você tem uma máquina `Windows`. MacOS e Linux não são compatíveis
 - Você instalou a versão mais recente do `Python`. Você pode fazer isso clicando [aqui](https://www.python.org/downloads/))
 - Você instalou a dependência `Colorama` do `Python`. Você pode fazer isso executando `pip install colorama` no seu prompt de comando. 
 
@@ -64,6 +60,8 @@ NÃO crie uma issue se:
 - Seu problema é sobre uma dependência
 - Seu problema é sobre o Python
 - Seu problema é sobre qualquer outro software de terceiro
+
+Este programa é oferecido **sem** garantia de suporte.
 
 ## 📫 Contribuindo para Lunar Client Pirata
 
@@ -112,20 +110,17 @@ Os criadores originais e contribuidores estão listados aqui.
 
 You may download the pre-built tool version by clicking [here](https://github.com/nozkel/Lunar-Client-Cracked/releases) or acessing the releases page.
 
-If you wish run the tool by Python, modify and/or code contribute, you may clone or download the whole repo.
+You can also build, modify and/or code contribute by yourself, just clone the whole repo.
 
 ### 🔧 Changes made
-THe project still in development, you may check coming soon updates here:
 
 - [x] Portuguese Translation
-- [ ] Code Rework into Autoral code
-- [ ] Improve accessibility
 
 ## 💻 Requirements
 
 Before start, make sure you have met the requirements:
 
-- You have `Windows` and version compatible with `.NET Framework 4.7.2`. MacOS and Linux aren't compatible
+- You have `Windows` system installed. MacOS and Linux aren't compatible
 - You installed the latest version of `Python`. You may do it by clicking [here](https://www.python.org/downloads/))
 - You installed the latest `Colorama` version of `Python`. You may do it by running `pip install colorama` into your terminal. 
 
@@ -162,6 +157,8 @@ DO NOT create an issue if:
 - Your issue is about dependencies
 - Your issue is about Python
 - Your issue is about any third-party software
+
+This program is published with **no** support warranty. 
 
 ## 📫 Contributing for Lunar Client Cracked
 
