@@ -1,5 +1,7 @@
 # Lunar Client Pirata / Cracked
 
+## This repository has been archived and no longer updates.<br>If you still want to help the community, fork this repository and do it by you own.
+
 ## 🌍 Sumário / Summary
 - [🇧🇷 Português](#portugues)
 - [🇺🇸 English](#english)
@@ -11,7 +13,7 @@
 
 ### 📥 Download
 
-Você pode baixar a versão pré feita da ferramenta clicando [aqui](https://github.com/nozkel/Lunar-Client-Cracked/releases), ou acessando a página de releases.
+Você pode baixar a versão pré feita da ferramenta clicando [aqui](https://github.com/euuz/Lunar-Client-Cracked/releases), ou acessando a página de releases.
 
 Você também pode construir seu próprio executável, modificar e/ou contribuir com o código. Para isso, clone todo o repositório.
 
@@ -53,7 +55,7 @@ pyinstaller --onefile main.py
 ```
 
 ## ❌ Solução de problemas
-Se você está enfrentando algum problema, cogite criar uma [issue](https://github.com/nozkel/Lunar-Client-Cracked/issues).
+Se você está enfrentando algum problema, cogite criar uma [issue](https://github.com/euuz/Lunar-Client-Cracked/issues).
 Apenas crie uma issue para problemas especificamente com o funcionamento do programa oferecido aqui.
 
 NÃO crie uma issue se:
@@ -108,7 +110,7 @@ Os criadores originais e contribuidores estão listados aqui.
 
 ### 📥 Download
 
-You may download the pre-built tool version by clicking [here](https://github.com/nozkel/Lunar-Client-Cracked/releases) or acessing the releases page.
+You may download the pre-built tool version by clicking [here](https://github.com/euuz/Lunar-Client-Cracked/releases) or acessing the releases page.
 
 You can also build, modify and/or code contribute by yourself, just clone the whole repo.
 
@@ -150,7 +152,7 @@ pyinstaller --onefile main.py
 ```
 
 ## ❌ Troubleshooting
-If you're experiencing any issues, consider creating an [issue](https://github.com/nozkel/Lunar-Client-Cracked/issues).
+If you're experiencing any issues, consider creating an [issue](https://github.com/euuz/Lunar-Client-Cracked/issues).
 Only create an issue for Lunar Client Cracked, issues with third-party problems will not be accepted.
 
 DO NOT create an issue if:
